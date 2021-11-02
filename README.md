@@ -1,1 +1,3 @@
-<img src="Redes de computadores 1.png>
+<p align="center">
+<img src="alurakut.png width="350" title=alurakut">
+  </p>
