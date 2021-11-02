@@ -3,7 +3,7 @@ import styled, { css } from 'styled-components';
 import NextLink from 'next/link';
 
 const BASE_URL = 'http://alurakut.vercel.app/';
-const v = '1';
+const v = '1';git
 
 
 function Link({ href, children, ...props }) {
