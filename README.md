@@ -1,1 +1,1 @@
-![Alt text](Área de Trabalho/Redes de computadores 1.png)
+<img src="Redes de computadores 1.png>
